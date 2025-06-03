@@ -94,8 +94,6 @@ python image_locator_tool.py
   File Hash (MD5): 8f1d909db82eabc234...
   ```
 
-* Map:
-  ![Map Output](https://user-images.githubusercontent.com/placeholder/map.png) *(Example visualization)*
 
 ---
 
