@@ -103,4 +103,3 @@ This project is provided for educational and non-commercial use. Attribution app
 
 ---
 
-Let me know if you want a version with screenshots or Markdown badge enhancements (like for Python version, etc).
