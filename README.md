@@ -1,6 +1,3 @@
-Here’s a complete `README.md` for your **Image Locator Tool**:
-
----
 
 # 🖼️ Image Locator Tool
 
